@@ -1,0 +1,7 @@
+
+*.dcu
+/dunit.ini
+/__history
+*.local
+*.exe
+*.res
