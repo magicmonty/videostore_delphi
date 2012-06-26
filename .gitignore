@@ -6,3 +6,9 @@
 *.exe
 *.res
 *.identcache
+/dSpec/specifications/__history
+/dSpec/source/__history
+/dSpec/specifications/dunit.ini
+/dSpec/specifications/*.map
+/dSpec/specifications/*.drc
+/dSpec/specifications/*.dll
