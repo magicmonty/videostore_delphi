@@ -1,8 +1,9 @@
 
-*.dcu
-/dunit.ini
-/__history
-*.local
-*.exe
+*.ppu
+/backup
 *.res
-*.identcache
+*.o
+*.compiled
+*.or
+VideoStore
+VideoStore.ico
