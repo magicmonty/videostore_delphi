@@ -1,6 +1,7 @@
 
 *.ppu
 /backup
+/bin
 *.res
 *.o
 *.compiled
